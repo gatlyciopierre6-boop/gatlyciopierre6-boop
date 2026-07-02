@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o João Pierre! 👋
 
-<!--
-**gatlyciopierre6-boop/gatlyciopierre6-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
 
-Here are some ideas to get you started:
+Aprendiz de Desenvolvimento na SESI | Entusiasta de Python e Dados | Estudante da SENAI | Jovem de 16 anos buscando uma carreira em Análise de Sistemas e IA | Ansioso para aprender e crescer profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems%20Analysis-FF69B4?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+### Conecte-se comigo
+
+- E-mail: [gatlyciopierre6-boop@email.com](mailto:gatlyciopierre6-boop@email.com) (substitua pelo seu e-mail real)
+- GitHub: [gatlyciopierre6-boop](https://github.com/gatlyciopierre6-boop)
+
+### Estatísticas do GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatlyciopierre6-boop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatlyciopierre6-boop&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Conquistas
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gatlyciopierre6-boop&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
