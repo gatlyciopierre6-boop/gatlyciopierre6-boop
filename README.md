@@ -6,8 +6,18 @@ Aprendiz de Desenvolvimento na SESI | Entusiasta de Python e Dados | Estudante d
 
 ### Tecnologias
 
+#### 🚀 Linguagens e Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+
+#### 🛠️ Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
+
+#### 📊 Áreas de Foco
+<p align="left">
   <img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Systems%20Analysis-FF69B4?style=for-the-badge&logo=linux&logoColor=white" />
