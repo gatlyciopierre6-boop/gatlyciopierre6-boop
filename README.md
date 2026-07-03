@@ -15,7 +15,7 @@ Aprendiz de Desenvolvimento na SESI | Entusiasta de Python e Dados | Estudante d
 
 ### Conecte-se comigo
 
-- E-mail: [gatlyciopierre6-boop@email.com](mailto:gatlyciopierre6-boop@email.com) (substitua pelo seu e-mail real)
+- E-mail: [gatlyciopierre6@gmail.com](mailto:gatlyciopierre6@gmail.com)
 - GitHub: [gatlyciopierre6-boop](https://github.com/gatlyciopierre6-boop)
 
 ### Estatísticas do GitHub
