@@ -1,4 +1,4 @@
-# Olá, eu sou o João Pierre! 👋
+# Olá, eu sou o Jhon Wensky Pierre! 👋
 
 ### Sobre Mim
 
@@ -25,8 +25,9 @@ Aprendiz de Desenvolvimento na SESI | Entusiasta de Python e Dados | Estudante d
 
 ### Conecte-se comigo
 
-- E-mail: [gatlyciopierre6@gmail.com](mailto:gatlyciopierre6@gmail.com)
-- GitHub: [gatlyciopierre6-boop](https://github.com/gatlyciopierre6-boop)
+- 📧 E-mail: [gatlyciopierre6@gmail.com](mailto:gatlyciopierre6@gmail.com)
+- 💼 LinkedIn: [Jhon Wensky Pierre](https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/)
+- 🔗 GitHub: [gatlyciopierre6-boop](https://github.com/gatlyciopierre6-boop)
 
 ### Estatísticas do GitHub
 
