@@ -121,5 +121,5 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=footer&text=Vamos%20construir%20o%20futuro%20juntos!&fontSize=50&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=0&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&width=100%&height=300&section=footer&text=Vamos%20construir%20o%20futuro%20juntos!&fontSize=35&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=50&fontAlignY=50" />
 </div>
