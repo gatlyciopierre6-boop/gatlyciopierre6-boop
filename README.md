@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Jhon%20Wensky%20Pierre&fontSize=90&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=0&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&width=100%&height=300&section=header&text=Jhon%20Wensky%20Pierre&fontSize=70&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=50&fontAlignY=40" />
 </div>
 
 <div align="center">
