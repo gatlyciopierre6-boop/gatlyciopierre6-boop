@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Sobre Mim" width="25" height="25" /> Sobre Mim
+### 👨‍💻 Sobre Mim
 
 Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência artificial, análise de dados e desenvolvimento web. Busco meu primeiro estágio para evoluir, aprender e transformar ideias em soluções reais.
 
@@ -27,7 +27,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Tecnologias" width="25" height="25" /> Tecnologias
+### ⚡ Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +53,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="GitHub Stats" width="25" height="25" /> GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gatlyciopierre6-boop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -63,7 +63,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Award%20Medals/Trophy.png" alt="Trophies" width="25" height="25" /> Troféus GitHub
+### 🏆 Troféus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gatlyciopierre6-boop&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" width="800px" />
@@ -71,7 +71,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projetos" width="25" height="25" /> Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/gatlyciopierre6-boop/Segundo_termo">
@@ -87,7 +87,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Map.png" alt="Timeline" width="25" height="25" /> Trilha de Aprendizado
+### 🗺️ Trilha de Aprendizado
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gatlyciopierre6-boop&theme=react-dark&hide_border=true&area=true" width="800px" />
@@ -95,7 +95,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Estudando" width="25" height="25" /> Atualmente Estudando
+### 🧠 Atualmente Estudando
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,git,docker,linux,vscode&theme=dark" />
@@ -107,7 +107,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Waving%20Hand.png" alt="Contato" width="25" height="25" /> Conecte-se comigo
+### 👋 Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
