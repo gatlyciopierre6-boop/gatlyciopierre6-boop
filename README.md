@@ -66,7 +66,7 @@ Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência 
 ### 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gatlyciopierre6-boop&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" width="800px" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="300px" />
 </div>
 
 ---
