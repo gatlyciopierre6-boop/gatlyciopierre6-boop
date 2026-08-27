@@ -125,15 +125,12 @@ Neste momento, estou fortalecendo Python, JavaScript, TypeScript, React, Git, Do
 
 <div align="center">
   <a href="https://github.com/gatlyciopierre6-boop">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gatlyciopierre6-boop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Panorama%20do%20perfil" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/gatlyciopierre6-boop">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatlyciopierre6-boop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gatlyciopierre6-boop&theme=tokyonight" alt="Resumo do perfil e das contribuições no GitHub" width="100%" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatlyciopierre6-boop&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=gatlyciopierre6-boop&style=for-the-badge&color=7c3aed&label=VISITAS%20AO%20PERFIL" alt="Contador de visitas ao perfil" />
 </div>
 
 ## Como aprendo e construo
