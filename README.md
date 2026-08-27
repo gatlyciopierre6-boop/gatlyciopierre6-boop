@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:00B8D9&height=170&section=header" alt="Background em gradiente roxo e ciano no cabeçalho" width="100%" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=760&lines=Jhon+Wensky+Pierre;Desenvolvedor+em+forma%C3%A7%C3%A3o;Web+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial;Construindo+ideias+com+c%C3%B3digo" alt="Animação com o nome e as áreas de estudo" />
@@ -169,3 +171,5 @@ Quero evoluir meus projetos de estudo para experiências mais integradas, aproxi
 [Voltar ao topo](#jhon-wensky-pierre) · [Ver todos os projetos](https://github.com/gatlyciopierre6-boop?tab=repositories) · [Entrar em contato](#vamos-conversar)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:7C3AED,100:111827&height=140&section=footer" alt="Background em gradiente ciano e roxo no rodapé" width="100%" />
