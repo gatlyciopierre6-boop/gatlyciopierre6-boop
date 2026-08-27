@@ -1,125 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&width=100%&height=300&section=header&text=Jhon%20Wensky%20Pierre&fontSize=70&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=50&fontAlignY=40" />
+  <img src="./assets/hero-futuristic.jpg" alt="Arte futurista com rede neural e fluxos de dados em neon" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&height=60&lines=Python+Developer;Full+Stack+Developer;Data+Science+Enthusiast;Artificial+Intelligence;An%C3%A1lise+de+Sistemas" alt="Typing SVG" />
+  <h1>Jhon Wensky Pierre</h1>
+  <p><strong>Desenvolvedor em formação • Dados • Inteligência Artificial • Web</strong></p>
+  <p>
+    <a href="https://github.com/gatlyciopierre6-boop?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Visitar-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Visitar projetos" /></a>
+    <a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:gatlyciopierre6@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+  </p>
 </div>
 
----
+> **Construindo soluções que transformam curiosidade em código, dados e impacto real.**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gatlyciopierre6-boop&label=Visualiza%C3%A7%C3%B5es&color=0E7490&style=flat-square&background=1F2937" alt="Contador de Visitas" />
-</div>
+## Sobre o sistema
 
----
+Sou estudante do **SENAI** e **SESI**, com foco em desenvolvimento de sistemas, análise de dados e inteligência artificial. Estou construindo minha base técnica por meio de projetos práticos e busco uma oportunidade de estágio para aprender com times reais, colaborar com consistência e transformar ideias em produtos funcionais.
 
-### 👨‍💻 Sobre Mim
-
-Sou estudante do **SENAI** e **SESI**, apaixonado por tecnologia, inteligência artificial, análise de dados e desenvolvimento web. Busco meu primeiro estágio para evoluir, aprender e transformar ideias em soluções reais.
-
-| Detalhe | Informação |
+| Sinal | Detalhe |
 | :--- | :--- |
-| **Foco** | Desenvolvimento, IA e Dados |
-| **Idade** | 16 anos |
-| **Localização** | Brasil 🇧🇷 |
-| **Objetivo** | Estágio em Desenvolvimento de Sistemas ou Análise de Dados |
+| **Base** | Brasil |
+| **Foco atual** | Desenvolvimento web, IA e dados |
+| **Objetivo** | Primeiro estágio em desenvolvimento de sistemas ou análise de dados |
+| **Modo de trabalho** | Aprender rápido, documentar bem e entregar soluções úteis |
 
----
+## Stack em evolução
 
-### ⚡ Tecnologias
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript, TypeScript, HTML, CSS |
+| **Interfaces** | React, CSS responsivo, Figma |
+| **Dados e IA** | Pandas, NumPy, Matplotlib, Scikit-learn, fundamentos de Machine Learning |
+| **Ferramentas** | Git, GitHub, VS Code, Docker, Linux, MySQL |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,docker,linux,mysql&theme=dark" alt="Ícones das tecnologias utilizadas" />
 </div>
 
----
-
-### 📊 GitHub Stats
+## Projetos em destaque
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gatlyciopierre6-boop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatlyciopierre6-boop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gatlyciopierre6-boop&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150px" />
-</div>
-
----
-
-### 🚀 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/gatlyciopierre6-boop/Segundo_termo">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11&height=100&section=footer&text=Calculadora%20Web%202.0&fontSize=30&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=0&fontAlignY=40&desc=HTML,%20CSS,%20JS%20-%20Live%20Demo" />
+  <a href="https://github.com/gatlyciopierre6-boop/calcflow">
+    <img src="./assets/project-calculadora.jpg" alt="Visual futurista de uma calculadora holográfica" width="31%" />
   </a>
   <a href="https://github.com/gatlyciopierre6-boop/Primeiro_termo">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=18&height=100&section=footer&text=Material%20Primeiro%20Termo&fontSize=30&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=0&fontAlignY=40&desc=Python,%20IoT,%20S.O.%20-%20SESI/SENAI" />
+    <img src="./assets/project-iot.jpg" alt="Visual futurista de dispositivos conectados por IoT" width="31%" />
   </a>
   <a href="https://github.com/gatlyciopierre6-boop/1termo">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=100&section=footer&text=L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o&fontSize=30&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=0&fontAlignY=40&desc=Python,%20Tkinter%20-%20Estruturas%20de%20Dados" />
+    <img src="./assets/project-data-ai.jpg" alt="Visual futurista de dados e inteligência artificial" width="31%" />
   </a>
 </div>
 
----
+| Projeto | O que representa | Acesso |
+| :--- | :--- | :--- |
+| **CalcFlow** | Calculadora web moderna com HTML, CSS e JavaScript | [Abrir repositório](https://github.com/gatlyciopierre6-boop/calcflow) |
+| **Material do primeiro termo** | Estudos de Python, IoT e sistemas operacionais | [Abrir repositório](https://github.com/gatlyciopierre6-boop/Primeiro_termo) |
+| **Lógica de programação** | Estruturas de dados e fundamentos com Python/Tkinter | [Abrir repositório](https://github.com/gatlyciopierre6-boop/1termo) |
 
-### 🗺️ Trilha de Aprendizado
+## Trilha atual
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gatlyciopierre6-boop&theme=react-dark&hide_border=true&area=true" width="800px" />
-</div>
+```text
+[ fundamentos ] ──► [ projetos práticos ] ──► [ dados e IA ] ──► [ estágio ]
+       ▲                     │                    │
+       └────── estudar ◄─────┴──── documentar ◄───┘
+```
 
----
+Atualmente estou aprofundando **Python**, **JavaScript**, **TypeScript**, **React**, **Git**, **Docker**, **Linux**, **análise de dados** e **inteligência artificial**. Meu próximo passo é transformar esse repertório em experiências cada vez mais completas, acessíveis e orientadas a problemas reais.
 
-### 🧠 Atualmente Estudando
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,git,docker,linux,vscode&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
-
----
-
-### 👋 Conecte-se comigo
+## Conecte-se
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:gatlyciopierre6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gatlyciopierre6-boop/gatlyciopierre6-boop/output/github-snake-dark.svg" alt="snake" />
+  <a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:gatlyciopierre6@gmail.com">gatlyciopierre6@gmail.com</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/gatlyciopierre6-boop?tab=repositories">Todos os projetos</a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&width=100%&height=300&section=footer&text=Vamos%20construir%20o%20futuro%20juntos!&fontSize=35&animation=twinkling&fontColor=ffffff&reversal=false&stroke=none&fontAlign=50&fontAlignY=50" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=120&section=footer" alt="Faixa decorativa em gradiente azul e violeta" width="100%" />
 </div>
