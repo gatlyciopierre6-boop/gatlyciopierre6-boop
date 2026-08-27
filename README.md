@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-futuristic.jpg" alt="Arte futurista com rede neural e fluxos de dados em neon" width="100%" />
-
-# Jhon Wensky Pierre
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Jhon+Wensky+Pierre;Desenvolvedor+em+forma%C3%A7%C3%A3o;Web+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial" alt="Animação com o nome e as áreas de estudo" />
 
 ### Desenvolvedor em formação • Web • Dados • Inteligência Artificial
 
@@ -13,9 +11,11 @@
   <a href="#vamos-conversar">Contato</a>
 </p>
 
-<a href="https://github.com/gatlyciopierre6-boop?tab=repositories"><img src="https://img.shields.io/badge/explorar%20projetos-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" /></a>
-<a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/"><img src="https://img.shields.io/badge/conectar%20no%20LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
-<a href="mailto:gatlyciopierre6@gmail.com"><img src="https://img.shields.io/badge/falar%20comigo-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+<p>
+  <a href="https://github.com/gatlyciopierre6-boop?tab=repositories">Explorar projetos</a> ·
+  <a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/">Conectar no LinkedIn</a> ·
+  <a href="mailto:gatlyciopierre6@gmail.com">Enviar e-mail</a>
+</p>
 
 </div>
 
@@ -47,18 +47,6 @@ Atualmente, estou em busca de uma **primeira oportunidade de estágio** em desen
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/gatlyciopierre6-boop/calcflow">
-    <img src="./assets/project-calculadora.jpg" alt="Visual de uma calculadora holográfica representando o CalcFlow" width="31%" />
-  </a>
-  <a href="https://github.com/gatlyciopierre6-boop/2-TERMO">
-    <img src="./assets/project-data-ai.jpg" alt="Visual de dados e inteligência artificial representando os estudos do segundo termo" width="31%" />
-  </a>
-  <a href="https://github.com/gatlyciopierre6-boop/Primeiro_termo">
-    <img src="./assets/project-iot.jpg" alt="Visual de dispositivos conectados representando os estudos do primeiro termo" width="31%" />
-  </a>
-</div>
-
 | Projeto | O que você encontra | Tecnologias e foco |
 | :--- | :--- | :--- |
 | [**CalcFlow**](https://github.com/gatlyciopierre6-boop/calcflow) | Uma calculadora web com foco em interface, interação e experiência de uso. | HTML, CSS e JavaScript |
@@ -79,12 +67,6 @@ Atualmente, estou em busca de uma **primeira oportunidade de estágio** em desen
 </details>
 
 ## Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,git,github,docker,linux,mysql&theme=dark" alt="Ícones das tecnologias utilizadas nos estudos" />
-
-</div>
 
 | Frente | Tecnologias e conceitos |
 | :--- | :--- |
@@ -123,15 +105,7 @@ Neste momento, estou fortalecendo Python, JavaScript, TypeScript, React, Git, Do
 
 ## GitHub em números
 
-<div align="center">
-  <a href="https://github.com/gatlyciopierre6-boop">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gatlyciopierre6-boop&theme=tokyonight" alt="Resumo do perfil e das contribuições no GitHub" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gatlyciopierre6-boop&style=for-the-badge&color=7c3aed&label=VISITAS%20AO%20PERFIL" alt="Contador de visitas ao perfil" />
-</div>
+Você pode acompanhar meus repositórios, estudos e próximos experimentos diretamente na página do [meu GitHub](https://github.com/gatlyciopierre6-boop?tab=repositories). O perfil está em evolução junto com cada novo projeto publicado.
 
 ## Como aprendo e construo
 
@@ -155,13 +129,12 @@ Quero evoluir meus projetos de estudo para experiências mais integradas, aproxi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/"><img src="https://img.shields.io/badge/LinkedIn-jhon--wensky--pierre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Jhon Wensky Pierre" /></a>
-<a href="mailto:gatlyciopierre6@gmail.com"><img src="https://img.shields.io/badge/E--mail-gatlyciopierre6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de Jhon Wensky Pierre" /></a>
-<a href="https://github.com/gatlyciopierre6-boop?tab=repositories"><img src="https://img.shields.io/badge/GitHub-ver%20todos%20os%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos os projetos no GitHub" /></a>
+[LinkedIn](https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/) · [E-mail](mailto:gatlyciopierre6@gmail.com) · [Todos os projetos](https://github.com/gatlyciopierre6-boop?tab=repositories)
 
 </div>
 
 <div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=120&section=footer" alt="Faixa decorativa em gradiente azul e violeta" width="100%" />
+
+[Voltar ao topo](#jhon-wensky-pierre) · [Ver todos os projetos](https://github.com/gatlyciopierre6-boop?tab=repositories) · [Entrar em contato](#vamos-conversar)
+
 </div>
