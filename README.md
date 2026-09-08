@@ -162,7 +162,7 @@ Quero evoluir meus projetos de estudo para experiências mais integradas, aproxi
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/) · [E-mail](mailto:gatlyciopierre6@gmail.com) · [Todos os projetos](https://github.com/gatlyciopierre6-boop?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/jhon-wensky-pierre-451abb394/) · [Enviar e-mail](mailto:gatlyciopierre6@gmail.com) · [Todos os projetos](https://github.com/gatlyciopierre6-boop?tab=repositories)
 
 </div>
 
