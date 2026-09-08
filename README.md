@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:00B8D9&height=170&section=header" alt="Background em gradiente roxo e ciano no cabeçalho" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,75:7C3AED,100:22D3EE&height=210&section=header&text=JHON%20WENSKY%20PIERRE&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=WEB%20%7C%20DADOS%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=61&descSize=16&animation=twinkling" alt="Banner em gradiente azul-marinho, roxo e ciano" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=760&lines=Jhon+Wensky+Pierre;Desenvolvedor+em+forma%C3%A7%C3%A3o;Web+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial;Construindo+ideias+com+c%C3%B3digo" alt="Animação com o nome e as áreas de estudo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Construindo+ideias+com+c%C3%B3digo;Web+%7C+Dados+%7C+IA" alt="Animação com as áreas de estudo" />
 
 ### Desenvolvedor em formação • Web • Dados • Inteligência Artificial
 
@@ -20,9 +20,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/FOCO-WEB-7C3AED?style=flat-square" alt="Foco em desenvolvimento web" />
-  <img src="https://img.shields.io/badge/ESTUDANDO-DADOS-00B8D9?style=flat-square" alt="Estudando dados" />
-  <img src="https://img.shields.io/badge/OBJETIVO-EST%C3%81GIO-00C853?style=flat-square" alt="Buscando estágio" />
+  <img src="https://img.shields.io/badge/FOCO-WEB-8B5CF6?style=flat-square" alt="Foco em desenvolvimento web" />
+  <img src="https://img.shields.io/badge/ESTUDANDO-DADOS-22D3EE?style=flat-square" alt="Estudando dados" />
+  <img src="https://img.shields.io/badge/OBJETIVO-EST%C3%81GIO-34D399?style=flat-square" alt="Buscando estágio" />
 </p>
 
 </div>
@@ -90,7 +90,7 @@ Atualmente, estou em busca de uma **primeira oportunidade de estágio** em desen
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B1020" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -130,10 +130,10 @@ Neste momento, estou fortalecendo Python, JavaScript, TypeScript, React, Git, Do
 
 <div align="center">
 
-<a href="https://github.com/gatlyciopierre6-boop?tab=followers"><img src="https://img.shields.io/github/followers/gatlyciopierre6-boop?style=for-the-badge&logo=github&label=SEGUIDORES&color=00B8D9" alt="Quantidade de seguidores" /></a>
-<a href="https://github.com/gatlyciopierre6-boop/calcflow"><img src="https://img.shields.io/github/stars/gatlyciopierre6-boop/calcflow?style=for-the-badge&logo=github&label=ESTRELAS%20CALCFLOW&color=00C853" alt="Estrelas do CalcFlow" /></a>
-<a href="https://github.com/gatlyciopierre6-boop/2-TERMO"><img src="https://img.shields.io/github/last-commit/gatlyciopierre6-boop/2-TERMO?style=for-the-badge&logo=github&label=%C3%9ALTIMO%20COMMIT&color=7C3AED" alt="Último commit do 2-TERMO" /></a>
-<a href="https://github.com/gatlyciopierre6-boop"><img src="https://komarev.com/ghpvc/?username=gatlyciopierre6-boop&style=for-the-badge&color=F59E0B&label=VISITAS" alt="Visitas ao perfil" /></a>
+<a href="https://github.com/gatlyciopierre6-boop?tab=followers"><img src="https://img.shields.io/github/followers/gatlyciopierre6-boop?style=for-the-badge&logo=github&label=SEGUIDORES&color=22D3EE" alt="Quantidade de seguidores" /></a>
+<a href="https://github.com/gatlyciopierre6-boop/calcflow"><img src="https://img.shields.io/github/stars/gatlyciopierre6-boop/calcflow?style=for-the-badge&logo=github&label=ESTRELAS%20CALCFLOW&color=34D399" alt="Estrelas do CalcFlow" /></a>
+<a href="https://github.com/gatlyciopierre6-boop/2-TERMO"><img src="https://img.shields.io/github/last-commit/gatlyciopierre6-boop/2-TERMO?style=for-the-badge&logo=github&label=%C3%9ALTIMO%20COMMIT&color=8B5CF6" alt="Último commit do 2-TERMO" /></a>
+<a href="https://github.com/gatlyciopierre6-boop"><img src="https://komarev.com/ghpvc/?username=gatlyciopierre6-boop&style=for-the-badge&color=FBBF24&label=VISITAS" alt="Visitas ao perfil" /></a>
 
 </div>
 
@@ -172,4 +172,4 @@ Quero evoluir meus projetos de estudo para experiências mais integradas, aproxi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:7C3AED,100:111827&height=140&section=footer" alt="Background em gradiente ciano e roxo no rodapé" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,45:7C3AED,100:0B1020&height=140&section=footer" alt="Banner de rodapé em gradiente ciano, roxo e azul-marinho" width="100%" />
