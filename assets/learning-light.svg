@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-labelledby="title desc">
-  <title id="title">Minha jornada</title><desc id="desc">Formação no SENAI e experiência como Dev Apprentice no SESI, com foco em tecnologia.</desc>
-  <rect width="1200" height="125" rx="20" fill="#faf5ff" stroke="#ddd6fe"/><rect x="0" y="0" width="9" height="125" rx="4" fill="#7c3aed"/>
-  <text x="42" y="48" fill="#6d28d9" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">EM EVOLUÇÃO</text>
-  <text x="42" y="82" fill="#1f2937" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="650">SENAI + SESI  ·  Python, desenvolvimento web, dados e IA</text>
-  <path d="M1060 64h72m-14-14 14 14-14 14" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
