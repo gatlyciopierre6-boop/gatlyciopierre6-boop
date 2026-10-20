@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-labelledby="title desc">
+  <title id="title">Sobre mim</title><desc id="desc">Estudante e aprendiz de desenvolvimento de sistemas, interessado em Python, dados e inteligência artificial.</desc>
+  <rect width="1200" height="125" rx="20" fill="#0f172a" stroke="#334155"/><rect x="0" y="0" width="9" height="125" rx="4" fill="#22d3ee"/>
+  <text x="42" y="48" fill="#67e8f9" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">QUEM SOU</text>
+  <text x="42" y="82" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="650">Aprendo construindo: código, projetos e soluções para problemas reais.</text>
+  <circle cx="1110" cy="63" r="29" fill="#22d3ee" opacity=".13"/><path d="M1098 63h24m-12-12v24" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+</svg>

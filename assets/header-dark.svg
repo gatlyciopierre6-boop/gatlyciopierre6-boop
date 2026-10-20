@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Jhon Wensky Pierre</title><desc id="desc">Desenvolvedor em formação com foco em web, dados e inteligência artificial.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#1e1b4b"/><stop offset="1" stop-color="#164e63"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+  <rect width="1200" height="250" rx="28" fill="url(#bg)"/><circle cx="1050" cy="20" r="190" fill="#8b5cf6" opacity=".12"/><circle cx="1120" cy="230" r="170" fill="#22d3ee" opacity=".1"/><path d="M0 218 C280 160 430 290 700 205 S1030 120 1200 175" fill="none" stroke="url(#line)" stroke-width="2" opacity=".65"/>
+  <g fill="#a5f3fc" opacity=".75"><circle cx="950" cy="63" r="3"/><circle cx="1000" cy="95" r="2"/><circle cx="1100" cy="75" r="3"/><circle cx="1060" cy="155" r="2"/><circle cx="900" cy="180" r="2"/></g>
+  <text x="76" y="102" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="43" font-weight="800" letter-spacing="1">JHON WENSKY PIERRE</text>
+  <text x="80" y="148" fill="#a5f3fc" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="3">DESENVOLVIMENTO · DADOS · IA</text>
+  <rect x="80" y="177" width="245" height="34" rx="17" fill="#ffffff" fill-opacity=".09" stroke="#67e8f9" stroke-opacity=".45"/>
+  <text x="202" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">ESTUDANTE SENAI · DEV APPRENTICE</text>
+</svg>
