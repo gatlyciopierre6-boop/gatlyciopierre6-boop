@@ -8,6 +8,7 @@
 
 <p>
   <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#jogo">Jogar</a> ·
   <a href="#tecnologias">Tecnologias</a> ·
   <a href="#minha-trilha">Minha trilha</a> ·
   <a href="#vamos-conversar">Contato</a>
@@ -28,6 +29,17 @@
 </div>
 
 > **Transformo curiosidade em código, dados e experiências que resolvem problemas reais.**
+
+<a id="jogo"></a>
+## 🎮 Faça uma pausa: Caça ao Bug
+
+Criei um mini-jogo de lógica para você testar seu raciocínio. Descubra o código secreto em até seis tentativas — clique na prévia para jogar.
+
+<div align="center">
+
+<a href="https://gatlyciopierre6-boop.github.io/gatlyciopierre6-boop/jogo/"><img src="assets/caca-ao-bug.svg" alt="Jogue Caça ao Bug: descubra o código secreto em seis tentativas" width="100%" /></a>
+
+</div>
 
 ## 🟣 Sobre mim
 

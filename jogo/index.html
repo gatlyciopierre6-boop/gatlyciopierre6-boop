@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="Um mini-jogo de lógica: descubra o código secreto em seis tentativas.">
+  <title>Caça ao Bug — Jhon Wensky Pierre</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0b1020;--panel:#111a2e;--panel2:#17233c;--ink:#f8fafc;--muted:#a8b4cc;--cyan:#22d3ee;--purple:#8b5cf6;--green:#34d399;--red:#fb7185;--line:#263550}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% -15%,#27306b 0,transparent 48%),var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;display:grid;place-items:center;padding:24px}
+    main{width:min(100%,650px)}.top{text-align:center;margin:0 0 20px}.eyebrow{color:var(--cyan);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.76rem}.top h1{font-size:clamp(2rem,7vw,3rem);line-height:1.08;margin:8px 0}.top p{color:var(--muted);margin:8px auto;max-width:48ch}.card{background:linear-gradient(145deg,rgba(23,35,60,.96),rgba(17,26,46,.96));border:1px solid #344463;border-radius:22px;padding:clamp(18px,5vw,30px);box-shadow:0 24px 80px #0008}.status{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:0 0 15px;border-bottom:1px solid var(--line);color:var(--muted);font-size:.92rem}.status strong{color:var(--ink)}.slots{display:flex;justify-content:center;gap:12px;margin:24px 0 18px}.slot{width:54px;height:54px;border-radius:16px;border:2px solid #3a4c6d;background:#0b1020;color:var(--cyan);font-size:1.5rem;font-weight:800;display:grid;place-items:center}.slot.filled{border-color:var(--cyan);box-shadow:0 0 20px #22d3ee24}.palette{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:0 auto 16px;max-width:430px}.digit{border:1px solid #405478;border-radius:14px;background:#1a2741;color:white;padding:12px 4px;font-size:1.05rem;font-weight:800;cursor:pointer;transition:.15s}.digit:hover,.digit:focus-visible{outline:2px solid var(--cyan);transform:translateY(-2px)}.digit[aria-pressed=true]{background:#312e81;border-color:var(--purple)}.actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}.btn{border:0;border-radius:12px;padding:11px 18px;font:inherit;font-weight:750;cursor:pointer}.primary{background:linear-gradient(100deg,var(--purple),#5b65df);color:#fff}.secondary{background:#202d47;color:var(--ink);border:1px solid #3a4c6d}.btn:disabled{opacity:.45;cursor:not-allowed}.message{text-align:center;min-height:28px;margin:15px 0 4px;font-weight:650}.message.good{color:var(--green)}.message.bad{color:var(--red)}.history{border-top:1px solid var(--line);padding-top:15px;margin-top:14px}.history h2{font-size:.9rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}.rows{display:grid;gap:7px}.row{display:flex;align-items:center;justify-content:space-between;padding:8px 11px;background:#0b1020a8;border:1px solid #202e48;border-radius:10px;font-variant-numeric:tabular-nums}.guess{letter-spacing:.35em;color:var(--cyan);font-weight:800}.hint{color:var(--muted);font-size:.88rem}.how{text-align:center;color:var(--muted);font-size:.9rem;margin:17px auto 0;max-width:58ch}.how b{color:var(--ink)}footer{text-align:center;color:#7f8ca6;font-size:.82rem;margin:18px}footer a{color:var(--cyan);text-decoration:none}footer a:hover{text-decoration:underline}
+    @media(max-width:440px){body{padding:14px}.card{border-radius:18px}.slots{gap:8px}.slot{width:48px;height:48px}.palette{gap:7px}.digit{padding:11px 2px}}
+    @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important}}
+  </style>
+</head>
+<body>
+<main>
+  <header class="top"><div class="eyebrow">Mini-jogo de lógica</div><h1>Caça ao Bug</h1><p>O sistema escondeu um código de 4 dígitos. Use a lógica para encontrá-lo em até 6 tentativas.</p></header>
+  <section class="card" aria-label="Jogo Caça ao Bug">
+    <div class="status"><span>Tentativas restantes: <strong id="remaining">6</strong></span><span id="round">Rodada 1</span></div>
+    <div class="slots" id="slots" aria-label="Código selecionado"></div>
+    <div class="palette" id="palette" aria-label="Escolha os dígitos"></div>
+    <div class="actions"><button class="btn primary" id="submit" disabled>Testar código</button><button class="btn secondary" id="undo">Apagar último</button><button class="btn secondary" id="restart">Novo jogo</button></div>
+    <p class="message" id="message" role="status" aria-live="polite">Escolha quatro dígitos diferentes para começar.</p>
+    <div class="history"><h2>Histórico</h2><div class="rows" id="rows"><div class="hint">Suas tentativas aparecerão aqui.</div></div></div>
+  </section>
+  <p class="how"><b>Dica:</b> depois de testar, você verá quantos dígitos estão no lugar certo e quantos aparecem no código, mas estão em outra posição.</p>
+  <footer>Feito por <a href="https://github.com/gatlyciopierre6-boop">Jhon Wensky Pierre</a> · <a href="https://github.com/gatlyciopierre6-boop/gatlyciopierre6-boop">Voltar ao perfil</a></footer>
+</main>
+<script>
+(() => {
+  const symbols = ['0','1','2','3','4','5','6','7','8','9'];
+  const $ = id => document.getElementById(id);
+  const slotsEl = $('slots'), paletteEl = $('palette'), submitEl = $('submit'), messageEl = $('message'), rowsEl = $('rows');
+  let secret = [], guess = [], attempts = 0, finished = false;
+  function newGame(){
+    secret = [...symbols].sort(() => Math.random() - .5).slice(0,4);
+    guess = []; attempts = 0; finished = false;
+    $('remaining').textContent = '6'; $('round').textContent = 'Rodada 1';
+    rowsEl.innerHTML = '<div class="hint">Suas tentativas aparecerão aqui.</div>';
+    messageEl.textContent = 'Escolha quatro dígitos diferentes para começar.'; messageEl.className='message';
+    draw();
+  }
+  function draw(){
+    slotsEl.innerHTML = '';
+    for(let i=0;i<4;i++){const d=document.createElement('div');d.className='slot'+(guess[i]?' filled':'');d.textContent=guess[i]??'·';d.setAttribute('aria-label',guess[i]?`Posição ${i+1}: ${guess[i]}`:`Posição ${i+1} vazia`);slotsEl.append(d)}
+    paletteEl.innerHTML='';
+    symbols.forEach(n=>{const b=document.createElement('button');b.className='digit';b.textContent=n;b.type='button';b.setAttribute('aria-label',`Escolher ${n}`);b.setAttribute('aria-pressed',guess.includes(n));b.disabled=finished||guess.includes(n)||guess.length===4;b.addEventListener('click',()=>{if(!finished&&guess.length<4&&!guess.includes(n)){guess.push(n);draw()}});paletteEl.append(b)});
+    submitEl.disabled=guess.length!==4||finished;
+  }
+  function test(){
+    if(guess.length!==4||finished)return;
+    attempts++;
+    const exact=guess.filter((n,i)=>secret[i]===n).length;
+    const present=guess.filter(n=>secret.includes(n)).length-exact;
+    if(rowsEl.firstElementChild?.classList.contains('hint'))rowsEl.innerHTML='';
+    const row=document.createElement('div');row.className='row';
+    const code=document.createElement('span');code.className='guess';code.textContent=guess.join('');
+    const clue=document.createElement('span');clue.className='hint';clue.textContent=`${exact} no lugar certo · ${present} fora do lugar`;
+    row.append(code,clue);rowsEl.prepend(row);
+    $('remaining').textContent=String(6-attempts);$('round').textContent=`Rodada ${Math.min(attempts+1,6)}`;
+    if(exact===4){finished=true;messageEl.textContent=`Bug encontrado! Você resolveu em ${attempts} ${attempts===1?'tentativa':'tentativas'}.`;messageEl.className='message good'}
+    else if(attempts===6){finished=true;messageEl.textContent=`As tentativas acabaram. O código era ${secret.join('')}. Tente de novo!`;messageEl.className='message bad'}
+    else{messageEl.textContent='Boa! Use as pistas para ajustar sua próxima tentativa.';messageEl.className='message'}
+    guess=[];draw();
+  }
+  submitEl.addEventListener('click',test);
+  $('undo').addEventListener('click',()=>{if(!finished){guess.pop();draw()}});
+  $('restart').addEventListener('click',newGame);
+  document.addEventListener('keydown',e=>{if(finished)return;if(/^\d$/.test(e.key)&&guess.length<4&&!guess.includes(e.key)){guess.push(e.key);draw()}else if(e.key==='Backspace'){guess.pop();draw()}else if(e.key==='Enter'&&!submitEl.disabled)test()});
+  newGame();
+})();
+</script>
+</body>
+</html>
